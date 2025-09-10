@@ -4,4 +4,8 @@ public class maryclasscheck
 {
 //    mary branch
   //hello Am bala accesiing this class
+    public String welcome()
+    {
+        return "welcome";
+    }
 }
