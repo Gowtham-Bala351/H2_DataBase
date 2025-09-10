@@ -8,4 +8,9 @@ public class maryclasscheck
     {
         return "welcome";
     }
+    //hey welcome to version 2.0
+    public int people()
+    {
+        return 50;
+    }
 }
